@@ -25,9 +25,12 @@ Since I found Coffee Time online and now that I take a closer look at the websit
 ## Future Features
 
 ### Navigation bar
-* Responsive navigation bar is visible on all three pages. The content of the navigation bar is Home, Menu and Contact Us. For simplicity, the navigation bar is identical throughout all three pages.
+* Responsive navigation bar is visible on all three pages. The content of the navigation bar is Home, Menu and Contact Us.
+* For simplicity, the navigation bar is identical throughout all three pages.
+  
 <img src="" alt="Nav-bar"
 
 * ### The Home Page
   + The home page looks simple with a full-screen background image focusing on the given topic to interest visitors to continue.
+  
 <img src="" alt="Home Page"
