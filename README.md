@@ -19,3 +19,5 @@ As a product manager, I visited a small place with a coffee bar called Coffee Ti
 At that moment, all I wanted was to drink good coffee. Fortunately, I came across Coffee Time, which offers an incredible range of coffee with different flavors. 
 Some of the best coffee flavors have orange and hazelnut flavors in them that are unimaginable until you try them.
 Since I found Coffee Time online and now that I take a closer look at the website, I find meaning in all the flavors on offer.
+
+# Features
