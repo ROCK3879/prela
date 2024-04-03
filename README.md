@@ -77,8 +77,9 @@ Since I found Coffee Time online and now that I take a closer look at the websit
 ### Reporting issues
 
 ### Validator Testing
-*HTML ........... [W3C validator](https://validator.w3.org/)
-*CSS ........... [(Jigsaw) validator ](https://jigsaw.w3.org/css-validator/)
+* HTML ........... [W3C validator](https://validator.w3.org/)
+  
+* CSS ........... [(Jigsaw) validator ](https://jigsaw.w3.org/css-validator/)
 
 ### Accesibility
 
