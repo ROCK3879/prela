@@ -65,6 +65,9 @@ Since I found Coffee Time online and now that I take a closer look at the websit
 * Sans Serif
 * Dancing Script
 
+### Wireframe
+* Balsamiq Wireframes was used to create the idea and maintain the production flow
+
 ## Testing
 
 ### Layout and Design Testing
