@@ -30,7 +30,43 @@ Since I found Coffee Time online and now that I take a closer look at the websit
   
 <img src="" alt="Nav-bar"
 
-* ### The Home Page
-  + The home page looks simple with a full-screen background image focusing on the given topic to interest visitors to continue.
+### Home Page
+* The home page looks simple with a full-screen background image focusing on the given topic to interest visitors to continue.
   
 <img src="" alt="Home Page"
+
+### Menu Page
+* A comprehensive overview of the cafe bar's menu with enticing images and text offers a large selection of coffee flavors for coffee lovers and directs site visitors to discover further.
+
+<img src="" alt="Menu Page"
+
+### Contact Page
+* The contact page provides visitors with the possibility of contact information and the possibility of making a reservation through a simple contact form that connects and sends a receipt with the offered version of the Code Institute website.
+
+<img src="" alt="Contact Page"
+
+### Footer
+* The links within the footer bar allow users to visit the offered social networks that are related to the Coffee Time Cafe bar.
+* The footer bar also contains an address with a link to the location and a phone number for more information.
+* The footer bar allows visitors quick access to the coffee bar.
+
+<img src="" alt="Contact Page"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
