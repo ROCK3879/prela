@@ -55,7 +55,7 @@ Since I found Coffee Time online and now that I take a closer look at the websit
 ## Design
 
 ### Technology used
-*HTML, CSS, GitHub, W3Validator
+* HTML, CSS, GitHub, W3Validator
 
 ### Colors
 * First color: xxxxxxxxx
