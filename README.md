@@ -1,7 +1,7 @@
 
-# Caffe Bar Coffee Time
+# Coffee Time
 
-Hallo !
+Hello readers !
 
 In this document, you will be able to see the structure of the site and the content of the technologies used.
 Coffee Time is a website that provides complete pleasure for people to become part of this story and to meet regularly with incredible coffee flavors. 
@@ -28,9 +28,9 @@ Since I found Coffee Time online and now that I take a closer look at the websit
 * Responsive navigation bar is visible on all three pages. The content of the navigation bar is Home, Menu and Contact Us.
 * For simplicity, the navigation bar is identical throughout all three pages.
   
-<img src="" alt="Nav-bar"
+<img src="" alt="Navigation bar"
 
-### Home Page
+### The landing Page
 * The home page looks simple with a full-screen background image focusing on the given topic to interest visitors to continue.
   
 <img src="" alt="Home Page"
@@ -51,6 +51,55 @@ Since I found Coffee Time online and now that I take a closer look at the websit
 * The footer bar allows visitors quick access to the coffee bar.
 
 <img src="" alt="Contact Page"
+
+## Design
+
+### Technology used
+*HTML, CSS, GitHub, W3Validator
+
+### Colors
+* First color: xxxxxxxxx
+* Second color: xxxxxxxx
+
+### Typography
+* Sans Serif
+* Dancing Script
+
+## Testing
+
+### Layout and Design Testing
+
+### Functionality
+
+### Reporting issues
+
+### Validator Testing
+*HTML
+*CSS
+
+### Accesibility
+
+### Bugs
+#### Fixed:
+#### Unfixed:
+
+## Deployment
+* Link: 
+
+## Fork a GitHub Repository
+
+## Credits
+
+### Media
+* The photos were taken from [Pexels](https://www.pexels.com/)
+     
+### Content
+* Idea for The Home page text was from: 
+* Social media icons in the footer were from [Font Awesome](https://fontawesome.com/)
+* The Favicon was taken from [Favicon.io](https://favicon.io/)
+
+Enjoy browsing the website!
+
 
 
 
