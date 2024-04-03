@@ -50,7 +50,7 @@ Since I found Coffee Time online and now that I take a closer look at the websit
 * The footer bar also contains an address with a link to the location and a phone number for more information.
 * The footer bar allows visitors quick access to the coffee bar.
 
-<img src="" alt="Contact Page"
+<img src="" alt="Footer section"
 
 ## Design
 
