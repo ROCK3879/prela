@@ -77,8 +77,8 @@ Since I found Coffee Time online and now that I take a closer look at the websit
 ### Reporting issues
 
 ### Validator Testing
-*HTML
-*CSS
+*HTML ........... [W3C validator](https://validator.w3.org/)
+*CSS ........... [(Jigsaw) validator ](https://jigsaw.w3.org/css-validator/)
 
 ### Accesibility
 
@@ -87,7 +87,7 @@ Since I found Coffee Time online and now that I take a closer look at the websit
 #### Unfixed:
 
 ## Deployment
-* Link: 
+* Link: https://
 
 ## Fork a GitHub Repository
 
