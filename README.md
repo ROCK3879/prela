@@ -97,7 +97,6 @@ Since I found Coffee Time online and now that I take a closer look at the websit
 * The photos were taken from [Pexels](https://www.pexels.com/)
      
 ### Content
-* Idea for The Home page text was from: 
 * Social media icons in the footer were from [Font Awesome](https://fontawesome.com/)
 * The Favicon was taken from [Favicon.io](https://favicon.io/)
 
