@@ -16,7 +16,6 @@
 /* Nav-bar style */
 .navbar{
     width: 1700px;
-    height: 75;
     margin: auto;
 }
 
@@ -40,7 +39,6 @@
 .menu{
     width: 700px;
     float: left;
-    height: 80;
 }
 
 ul{
@@ -110,3 +108,31 @@ ul li a:hover{
 .searc:focus{
     outline: none;
 }
+
+/* Footer-style*/
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 15px 0;
+    background-color: burlywood;
+    color: black;
+    font-size: 12px;
+}
+
+.social-net {
+    text-align: left;
+}
+
+.social-net {
+    display: inline;
+}
+
+.social-net i {
+    font-size: 60%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+

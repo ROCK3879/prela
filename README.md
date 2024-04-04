@@ -58,8 +58,9 @@ Since I found Coffee Time online and now that I take a closer look at the websit
 * HTML, CSS, GitHub, W3Validator
 
 ### Colors
-* First color: xxxxxxxxx
-* Second color: xxxxxxxx
+* First color: rgb(222, 184, 135) burlywood
+* Second color: rgb(5, 5, 5) black
+* Third color: #fff; white
 
 ### Typography
 * Sans Serif
