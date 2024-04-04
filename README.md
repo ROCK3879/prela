@@ -63,8 +63,8 @@ Since I found Coffee Time online and now that I take a closer look at the websit
 * Third color: #fff; white
 
 ### Typography
+* Times New Roman
 * Sans Serif
-* Dancing Script
 
 ### Wireframe
 * Balsamiq Wireframes was used to create the idea and maintain the production flow
