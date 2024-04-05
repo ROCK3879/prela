@@ -10,12 +10,12 @@
     background: linear-gradient(rgba(0,0,0,0.2)50%, rgba(0,0,0,0.2)50%), url("../images/whats-your-story.jpg");
     background-position: center;
     background-size: cover;
-    height: 108vh;
+    height: 100vh;
 }
 
 /* Nav-bar style */
 .navbar{
-    width: 1700px;
+    width: 1600px;
     margin: auto;
 }
 
@@ -109,6 +109,20 @@ ul li a:hover{
     outline: none;
 }
 
+/* Title home page */
+.title {
+    position: absolute;
+    top: 55%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    font-size: 85px;
+    -webkit-text-stroke: 1px burlywood;
+    color: transparent;
+    background-image: linear-gradient(burlywood);
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    background-position: -900px 0;
+}
 /* Footer-style*/
 footer {
     position: fixed;
@@ -135,4 +149,3 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
-
