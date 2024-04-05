@@ -120,7 +120,6 @@ ul li a:hover{
     color: transparent;
     background-image: linear-gradient(burlywood);
     background-repeat: no-repeat;
-    -webkit-background-clip: text;
     background-position: -900px 0;
 }
 /* Footer-style*/
