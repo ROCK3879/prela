@@ -109,20 +109,177 @@ ul li a:hover{
     outline: none;
 }
 
-/* Menu-title */
+/* Menu-title, text and description */
 .menu-title {
     position: absolute;
-    top: 15%;
+    top: 17%;
     left: 17%;
     transform: translate(-50%, -50%);
     font-size: 85px;
     -webkit-text-stroke: 2px burlywood;
     color: transparent;
-    background-image: linear-gradient(burlywood);
-    background-repeat: no-repeat;
-    -webkit-background-clip: text;
-    background-position: -900px 0;
 }
+
+.menu-text {
+    position: absolute;
+    top: 25%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    -webkit-text-stroke: 1px burlywood;
+    color: transparent;
+}
+
+.description {
+    position: absolute;
+    top: 25%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    -webkit-text-stroke: 1px burlywood;
+    color: transparent;
+}
+
+.menu-text1 {
+    position: absolute;
+    top: 29%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    -webkit-text-stroke: 1px burlywood;
+    color: transparent;
+}
+
+.description1 {
+    position: absolute;
+    top: 29%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    -webkit-text-stroke: 1px burlywood;
+    color: transparent;
+}
+
+.menu-text2 {
+    position: absolute;
+    top: 33%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    -webkit-text-stroke: 1px burlywood;
+    color: transparent;
+}
+
+.description2 {
+    position: absolute;
+    top: 33%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    -webkit-text-stroke: 1px burlywood;
+    color: transparent;
+}
+
+.menu-text3 {
+    position: absolute;
+    top: 37%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    -webkit-text-stroke: 1px burlywood;
+    color: transparent;
+}
+
+.description3 {
+    position: absolute;
+    top: 37%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    -webkit-text-stroke: 1px burlywood;
+    color: transparent;
+}
+
+.menu-text4 {
+    position: absolute;
+    top: 41%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    -webkit-text-stroke: 1px burlywood;
+    color: transparent;
+}
+
+.description4 {
+    position: absolute;
+    top: 41%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    -webkit-text-stroke: 1px burlywood;
+    color: transparent;
+}
+
+.menu-text5 {
+    position: absolute;
+    top: 45%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    -webkit-text-stroke: 1px burlywood;
+    color: transparent;
+}
+
+.description5 {
+    position: absolute;
+    top: 45%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    -webkit-text-stroke: 1px burlywood;
+    color: transparent;
+}
+
+.menu-text6 {
+    position: absolute;
+    top: 49%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    -webkit-text-stroke: 1px burlywood;
+    color: transparent;
+}
+
+.description6 {
+    position: absolute;
+    top: 49%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    -webkit-text-stroke: 1px burlywood;
+    color: transparent;
+}
+
+.menu-text7 {
+    position: absolute;
+    top: 55%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.308);
+    color: white;
+}
+
+.description7 {
+    position: absolute;
+    top: 55%;
+    left: 59%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.308);
+    color: white;
+}
+
 /* Footer-style*/
 footer {
     position: fixed;
