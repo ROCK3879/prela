@@ -67,7 +67,7 @@ ul li a{
 }
 
 ul li a:hover{
-    color: burlywood;
+    color: #deb887;
 }
 
 /* Search bar */
@@ -84,7 +84,7 @@ ul li a:hover{
     background: transparent;
     border: 2px solid #fff;
     margin-top: 35px;
-    color: burlywood;
+    color: #deb887;
     border-right: none;
     font-size: 16px;
     float: left;
@@ -99,7 +99,7 @@ ul li a:hover{
     background: transparent;
     border: 2px solid #fff;
     margin-top: 35px;
-    color: burlywood;
+    color: #deb887;
     font-size: 16px;
     border-bottom-right-radius: 6px;
     border-bottom-right-radius: 6px;
@@ -120,11 +120,14 @@ ul li a:hover{
     left: 35%;
     transform: translate(-50%, -50%);
     font-size: 85px;
-    -webkit-text-stroke: 1px burlywood;
+    -webkit-text-stroke: 1px #deb887;
     color: transparent;
-    background-image: linear-gradient(burlywood);
+    background-image: linear-gradient(#deb887, #000000);
     background-repeat: no-repeat;
     background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
+
 }
 /* Footer-style*/
 footer {
@@ -133,8 +136,8 @@ footer {
     width: 100%;
     text-align: center;
     padding: 15px 0;
-    background-color: burlywood;
-    color: black;
+    background-color: #deb887;
+    color: #000000;
     font-size: 12px;
 }
 

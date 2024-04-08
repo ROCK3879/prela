@@ -58,16 +58,15 @@ Since I found Coffee Time online and now that I take a closer look at the websit
 * HTML, CSS, GitHub, W3Validator
 
 ### Colors
-* First color: rgb(222, 184, 135) burlywood
-* Second color: rgb(5, 5, 5) black
+* First color: #deb887; burlywood
+* Second color: #000000; black
 * Third color: #fff; white
+* Fourth color: rgba(0,0,0,0.2)50%; Grey with addition of transparency
+* Fifth color: #3a3a3a; So
 
 ### Typography
 * Times New Roman
 * Sans Serif
-
-### Wireframe
-* Balsamiq Wireframes was used to create the idea and maintain the production flow
 
 ## Testing
 
@@ -84,9 +83,9 @@ Since I found Coffee Time online and now that I take a closer look at the websit
 
 ### Accesibility
 
-### Bugs
-#### Fixed:
-#### Unfixed:
+### Bugs: the same error appeared in all css strings: the </div> tag for navigating through the web page was not closed.
+#### Fixed: I solved the error by closing the open div tag from the navigation and checking it again in the W3 validator
+#### Unfixed: None
 
 ## Deployment
 * Link: https://

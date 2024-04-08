@@ -67,7 +67,7 @@ ul li a{
 }
 
 ul li a:hover{
-    color: burlywood;
+    color: #deb887;
 }
 
 /* Menu-title, text and description */
@@ -77,8 +77,13 @@ ul li a:hover{
     left: 17%;
     transform: translate(-50%, -50%);
     font-size: 85px;
-    -webkit-text-stroke: 2px burlywood;
+    -webkit-text-stroke: 2px #deb887;
     color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
 }
 
 .menu-text {
@@ -87,8 +92,13 @@ ul li a:hover{
     left: 17%;
     transform: translate(-50%, -50%);
     font-size: 35px;
-    -webkit-text-stroke: 2px burlywood;
+    -webkit-text-stroke: 2px #deb887;
     color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
 }
 
 .description {
@@ -97,18 +107,27 @@ ul li a:hover{
     left: 37%;
     transform: translate(-50%, -50%);
     font-size: 25px;
-    -webkit-text-stroke: 2px burlywood;
+    -webkit-text-stroke: 2px #deb887;
     color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
 }
-
 .menu-text1 {
     position: absolute;
     top: 29%;
     left: 17%;
     transform: translate(-50%, -50%);
     font-size: 35px;
-    -webkit-text-stroke: 2px burlywood;
+    -webkit-text-stroke: 2px #deb887;
     color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
 }
 
 .description1 {
@@ -117,8 +136,13 @@ ul li a:hover{
     left: 37%;
     transform: translate(-50%, -50%);
     font-size: 25px;
-    -webkit-text-stroke: 2px burlywood;
+    -webkit-text-stroke: 2px #deb887;
     color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
 }
 
 .menu-text2 {
@@ -127,8 +151,13 @@ ul li a:hover{
     left: 17%;
     transform: translate(-50%, -50%);
     font-size: 35px;
-    -webkit-text-stroke: 2px burlywood;
+    -webkit-text-stroke: 2px #deb887;
     color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
 }
 
 .description2 {
@@ -137,8 +166,13 @@ ul li a:hover{
     left: 37%;
     transform: translate(-50%, -50%);
     font-size: 25px;
-    -webkit-text-stroke: 2px burlywood;
+    -webkit-text-stroke: 2px #deb887;
     color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
 }
 
 .menu-text3 {
@@ -147,8 +181,13 @@ ul li a:hover{
     left: 17%;
     transform: translate(-50%, -50%);
     font-size: 35px;
-    -webkit-text-stroke: 2px burlywood;
+    -webkit-text-stroke: 2px #deb887;
     color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
 }
 
 .description3 {
@@ -157,8 +196,13 @@ ul li a:hover{
     left: 37%;
     transform: translate(-50%, -50%);
     font-size: 25px;
-    -webkit-text-stroke: 2px burlywood;
+    -webkit-text-stroke: 2px #deb887;
     color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
 }
 
 .menu-text4 {
@@ -167,8 +211,13 @@ ul li a:hover{
     left: 17%;
     transform: translate(-50%, -50%);
     font-size: 35px;
-    -webkit-text-stroke: 2px burlywood;
+    -webkit-text-stroke: 2px #deb887;
     color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
 }
 
 .description4 {
@@ -177,8 +226,13 @@ ul li a:hover{
     left: 37%;
     transform: translate(-50%, -50%);
     font-size: 25px;
-    -webkit-text-stroke: 2px burlywood;
+    -webkit-text-stroke: 2px #deb887;
     color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
 }
 
 .menu-text5 {
@@ -187,8 +241,13 @@ ul li a:hover{
     left: 17%;
     transform: translate(-50%, -50%);
     font-size: 35px;
-    -webkit-text-stroke: 2px burlywood;
+    -webkit-text-stroke: 2px #deb887;
     color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
 }
 
 .description5 {
@@ -197,8 +256,13 @@ ul li a:hover{
     left: 37%;
     transform: translate(-50%, -50%);
     font-size: 25px;
-    -webkit-text-stroke: 2px burlywood;
+    -webkit-text-stroke: 2px #deb887;
     color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
 }
 
 .menu-text6 {
@@ -207,8 +271,13 @@ ul li a:hover{
     left: 17%;
     transform: translate(-50%, -50%);
     font-size: 35px;
-    -webkit-text-stroke: 2px burlywood;
+    -webkit-text-stroke: 2px #deb887;
     color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
 }
 
 .description6 {
@@ -217,8 +286,13 @@ ul li a:hover{
     left: 37%;
     transform: translate(-50%, -50%);
     font-size: 25px;
-    -webkit-text-stroke: 2px burlywood;
+    -webkit-text-stroke: 2px #deb887;
     color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
 }
 
 /* Footer-style*/
@@ -228,8 +302,8 @@ footer {
     width: 100%;
     text-align: center;
     padding: 15px 0;
-    background-color: burlywood;
-    color: black;
+    background-color: #deb887;
+    color: #000000;
     font-size: 12px;
 }
 
