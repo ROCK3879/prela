@@ -1,3 +1,7 @@
+/* In this project I will use separate CSS styles for each HTML for better overview
+because I am a beginner in this and it is easier for me to work this way. In my next projects, when I'm more sure of myself
+I will do everything in one CSS style */
+
 /* Wildcard override */
 *{
     padding: 0;
