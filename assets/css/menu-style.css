@@ -2,7 +2,6 @@
 because I am a beginner in this and it is easier for me to work this way. In my next projects, when I'm more sure of myself
 I will do everything in one CSS style */
 
-/* Wildcard override */
 *{
     padding: 0;
     margin: 0;
@@ -18,10 +17,10 @@ I will do everything in one CSS style */
 }
 
 /* Nav-bar style */
-.navbar{
+  .navbar{
     width: 1600px;
     margin: auto;
-}
+  }
 
 .icon{
     width: 200px;
