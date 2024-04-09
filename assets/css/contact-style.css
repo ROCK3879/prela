@@ -7,7 +7,7 @@ body {
   margin: 0 auto;
   padding: 0;
   font-family: 'Times New Roman', Times, serif;
-  background: url("../images/white-caffee-blur.jpg");
+  background: url("../images/white-caffee-blur.jpg") no-repeat center center/cover;
 }
 
 /* Title styles */
@@ -70,7 +70,7 @@ form label, form input {
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
     text-align:center;
-    color: #000000;
+    color: #ffffff;
   }
   
 /*Navigation bar and links styling*/
