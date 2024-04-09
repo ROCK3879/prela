@@ -28,8 +28,7 @@ I will do everything in one CSS style */
     left: 0;
     width: 100%;
     padding: 20px 2%; 
-    display: flex; 
-    justify-content:space-between; 
+    display: flex;  
 }
 
 .icon{
@@ -43,14 +42,13 @@ I will do everything in one CSS style */
     color: #ffffff;
     font-size: 45px;
     font-family: 'Times New Roman';
-    padding-left: 30px;
+    padding-left: 20px;
     float: left;
     padding-top: 20px;
 }
 
-/* Nav-bar style */
 .menu{
-    width: 700px;
+    width: 200px;
     float: left;
 }
 
@@ -64,7 +62,7 @@ ul{
 ul li{
     list-style: none;
     margin-top: 45px;
-    margin-left: 172px;
+    margin-left: 100px;
     font-size: 18px;
 }
 /* Menu font style */
@@ -80,7 +78,7 @@ ul li a:hover{
 }
 /* Search bar */
 .search{
-    width: 330px;
+    width: 730px;
     float: left;
     margin-left: 270px;
 }
@@ -139,14 +137,14 @@ ul li a:hover{
 }
 /* Footer-style*/
 footer {
-    position: fixed;
+    position: absolute;
     bottom: 0;
     width: 100%;
     text-align: center;
     padding: 15px 0;
     background-color: #deb887;
-    color: #000000;
-    font-size: 12px;
+    color: #ffffff;
+    
 }
 
 .social-net {
@@ -163,3 +161,53 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+/* Responsivness*/
+@media screen and (max-width: 768px) {  
+    
+    .main {
+        display: flex;
+        margin: 100%;
+    }  
+    
+    .title {
+        font-size: 250%; 
+        right:1%; 
+    }
+
+    .menu {
+        display: inline;
+    }
+
+    ul {
+        padding: 30px 3%;
+    }
+         
+    ul li {
+        margin : 0 10px; 
+    }
+               
+    ul li a { 
+        display: flex ;
+        font-size: 0.8em;
+    }
+
+    .search{
+        display: flex;
+        margin: 0 10px;
+    }
+
+    .searc {
+        display: flex;
+        margin: 0 10px; 
+    }
+
+    .butto {
+        display: flex;
+        margin: 0 10px;
+    }
+
+       
+    footer { 
+        position:fixed;
+        font-size:13px;}
+     }

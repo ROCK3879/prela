@@ -60,9 +60,9 @@ Since I found Coffee Time online and now that I take a closer look at the websit
 ### Colors
 * First color: #deb887; burlywood
 * Second color: #000000; black
-* Third color: #fff; white
-* Fourth color: rgba(0,0,0,0.2)50%; Grey with addition of transparency
-* Fifth color: #3a3a3a; So
+* Third color: #ffffff; white
+* Forth color: #3a3a3a; 
+* Shadow color: #808080
 
 ### Typography
 * Times New Roman
