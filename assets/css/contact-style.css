@@ -7,7 +7,7 @@ body {
     margin: 0 auto;
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
-    background: url("../images/coffe-beans.jpg");
+    background: url("../images/white-caffee-blur.jpg");
     }
 
    
@@ -125,7 +125,7 @@ body {
     font-weight:bold;
   }
   
-  /* Responsivnes*/
+  /* Responsivness*/
   @media screen and (max-width: 768px) {   
    .container {
             flex-direction: column;

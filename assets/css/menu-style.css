@@ -10,7 +10,7 @@ I will do everything in one CSS style */
 /* Main page background */
 .main{
     width: 100%;
-    background: linear-gradient(rgba(0,0,0,0.2)50%, rgba(0,0,0,0.2)50%), url("../images/white-cup.jpg");
+    background: url("../images/coffe-beans.jpg");
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -72,8 +72,8 @@ ul li a:hover{
 /* Menu-title, text and description */
 .menu-title {
     position: absolute;
-    top: 17%;
-    left: 17%;
+    top: 25%;
+    left: 27%;
     transform: translate(-50%, -50%);
     font-size: 85px;
     -webkit-text-stroke: 2px #deb887;
@@ -87,10 +87,10 @@ ul li a:hover{
 
 .menu-text {
     position: absolute;
-    top: 25%;
+    top: 36%;
     left: 17%;
     transform: translate(-50%, -50%);
-    font-size: 35px;
+    font-size: 45px;
     -webkit-text-stroke: 2px #deb887;
     color: transparent;
     background-image: linear-gradient(#deb887, #000000);
@@ -102,10 +102,10 @@ ul li a:hover{
 
 .description {
     position: absolute;
-    top: 25%;
-    left: 37%;
+    top: 36%;
+    left: 43%;
     transform: translate(-50%, -50%);
-    font-size: 25px;
+    font-size: 35px;
     -webkit-text-stroke: 2px #deb887;
     color: transparent;
     background-image: linear-gradient(#deb887, #000000);
@@ -116,10 +116,10 @@ ul li a:hover{
 }
 .menu-text1 {
     position: absolute;
-    top: 29%;
+    top: 42%;
     left: 17%;
     transform: translate(-50%, -50%);
-    font-size: 35px;
+    font-size: 45px;
     -webkit-text-stroke: 2px #deb887;
     color: transparent;
     background-image: linear-gradient(#deb887, #000000);
@@ -131,10 +131,10 @@ ul li a:hover{
 
 .description1 {
     position: absolute;
-    top: 29%;
-    left: 37%;
+    top: 42%;
+    left: 43%;
     transform: translate(-50%, -50%);
-    font-size: 25px;
+    font-size: 35px;
     -webkit-text-stroke: 2px #deb887;
     color: transparent;
     background-image: linear-gradient(#deb887, #000000);
@@ -146,10 +146,10 @@ ul li a:hover{
 
 .menu-text2 {
     position: absolute;
-    top: 33%;
+    top: 48%;
     left: 17%;
     transform: translate(-50%, -50%);
-    font-size: 35px;
+    font-size: 45px;
     -webkit-text-stroke: 2px #deb887;
     color: transparent;
     background-image: linear-gradient(#deb887, #000000);
@@ -161,10 +161,10 @@ ul li a:hover{
 
 .description2 {
     position: absolute;
-    top: 33%;
-    left: 37%;
+    top: 48%;
+    left: 43%;
     transform: translate(-50%, -50%);
-    font-size: 25px;
+    font-size: 35px;
     -webkit-text-stroke: 2px #deb887;
     color: transparent;
     background-image: linear-gradient(#deb887, #000000);
@@ -176,10 +176,10 @@ ul li a:hover{
 
 .menu-text3 {
     position: absolute;
-    top: 37%;
+    top: 54%;
     left: 17%;
     transform: translate(-50%, -50%);
-    font-size: 35px;
+    font-size: 45px;
     -webkit-text-stroke: 2px #deb887;
     color: transparent;
     background-image: linear-gradient(#deb887, #000000);
@@ -191,10 +191,10 @@ ul li a:hover{
 
 .description3 {
     position: absolute;
-    top: 37%;
-    left: 37%;
+    top: 54%;
+    left: 43%;
     transform: translate(-50%, -50%);
-    font-size: 25px;
+    font-size: 35px;
     -webkit-text-stroke: 2px #deb887;
     color: transparent;
     background-image: linear-gradient(#deb887, #000000);
@@ -206,10 +206,10 @@ ul li a:hover{
 
 .menu-text4 {
     position: absolute;
-    top: 41%;
+    top: 60%;
     left: 17%;
     transform: translate(-50%, -50%);
-    font-size: 35px;
+    font-size: 45px;
     -webkit-text-stroke: 2px #deb887;
     color: transparent;
     background-image: linear-gradient(#deb887, #000000);
@@ -221,10 +221,10 @@ ul li a:hover{
 
 .description4 {
     position: absolute;
-    top: 41%;
-    left: 37%;
+    top: 60%;
+    left: 43%;
     transform: translate(-50%, -50%);
-    font-size: 25px;
+    font-size: 35px;
     -webkit-text-stroke: 2px #deb887;
     color: transparent;
     background-image: linear-gradient(#deb887, #000000);
@@ -236,10 +236,10 @@ ul li a:hover{
 
 .menu-text5 {
     position: absolute;
-    top: 45%;
+    top: 66%;
     left: 17%;
     transform: translate(-50%, -50%);
-    font-size: 35px;
+    font-size: 45px;
     -webkit-text-stroke: 2px #deb887;
     color: transparent;
     background-image: linear-gradient(#deb887, #000000);
@@ -251,23 +251,8 @@ ul li a:hover{
 
 .description5 {
     position: absolute;
-    top: 45%;
-    left: 37%;
-    transform: translate(-50%, -50%);
-    font-size: 25px;
-    -webkit-text-stroke: 2px #deb887;
-    color: transparent;
-    background-image: linear-gradient(#deb887, #000000);
-    background-repeat: no-repeat;
-    background-position: -900px 0;
-    background-clip: border-box;
-    background-clip: border-box;
-}
-
-.menu-text6 {
-    position: absolute;
-    top: 49%;
-    left: 17%;
+    top: 66%;
+    left: 43%;
     transform: translate(-50%, -50%);
     font-size: 35px;
     -webkit-text-stroke: 2px #deb887;
@@ -279,12 +264,27 @@ ul li a:hover{
     background-clip: border-box;
 }
 
+.menu-text6 {
+    position: absolute;
+    top: 73%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+    font-size: 45px;
+    -webkit-text-stroke: 2px #deb887;
+    color: transparent;
+    background-image: linear-gradient(#deb887, #000000);
+    background-repeat: no-repeat;
+    background-position: -900px 0;
+    background-clip: border-box;
+    background-clip: border-box;
+}
+
 .description6 {
     position: absolute;
-    top: 49%;
-    left: 37%;
+    top: 73%;
+    left: 43%;
     transform: translate(-50%, -50%);
-    font-size: 25px;
+    font-size: 35px;
     -webkit-text-stroke: 2px #deb887;
     color: transparent;
     background-image: linear-gradient(#deb887, #000000);

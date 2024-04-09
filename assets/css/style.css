@@ -6,21 +6,30 @@ I will do everything in one CSS style */
 *{
     padding: 0;
     margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
 }
 
 /* Main page background */
 .main{
     width: 100%;
-    background: linear-gradient(rgba(0,0,0,0.2)50%, rgba(0,0,0,0.2)50%), url("../images/whats-your-story.jpg");
-    background-position: center;
-    background-size: cover;
     height: 100vh;
+    background: url("../images/whats-your-story.jpg");
+    background-color: #ffffff;
+    background-size: cover;
+    background-position: center;
+    position: relative;
 }
 
 /* Nav-bar style */
-.navbar{
-    width: 1600px;
-    margin: auto;
+#navbar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 2%; 
+    display: flex; 
+    justify-content:space-between; 
 }
 
 .icon{
@@ -31,7 +40,7 @@ I will do everything in one CSS style */
 
 /* Logo style */
 .logo{
-    color: #fff;
+    color: #ffffff;
     font-size: 45px;
     font-family: 'Times New Roman';
     padding-left: 30px;
@@ -69,7 +78,6 @@ ul li a{
 ul li a:hover{
     color: #deb887;
 }
-
 /* Search bar */
 .search{
     width: 330px;
