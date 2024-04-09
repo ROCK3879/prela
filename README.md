@@ -11,7 +11,7 @@ Coffee Time website will be useful to all lovers of good taste who can make a re
 * Informative content and navigation will be easy for users because the website should be targeted to attract taste lovers and bring them to our address.
 Responsiveness to all devices provides an excellent browsing experience regardless of which device you use.
 
-<img src="../prela/assets/media/Full scr.png" alt="Screen responsiveness"
+<img src="../prela/assets/media/Fullscr.png" alt="Screen responsiveness"
 
 # User stories
 
@@ -35,24 +35,24 @@ If you can read this, you have prepared and submitted your form correctly"
 ### Navigation bar
 * Displayed on all pages, the navigation bar includes links to the home page, menu pages, and the Contact page.
 The navigation bar will allow the user to easily move from page to page on all devices.
-<img src="../prela/assets/media/Nav-bar.png" alt= "Navigation bar">
+<img src="../prela/assets/media/Navbar.png" alt= "Navigation bar">
 
 ### Home page
 * The main page has a design, with a simple background image that puts the coffee in the spotlight, while the text element grabs the user's attention and invites them to browse further.
-<img src="../prela/assets/media/Home page.png" alt="Home page">
+<img src="../prela/assets/media/Homepage.png" alt="Home page">
 
 ### Menu page
 * The menu page gives users a comprehensive overview of what Caffee Time has to offer.
-<img src="../prela/assets/media/menu page.png" alt="Menu page">
+<img src="../prela/assets/media/menupage.png" alt="Menu page">
 
 ### Contact page
 * The Contact page has a contact form that website visitors can use to get in touch with us and make reservations or other questions.
 By clicking the "Submit" button, the visitor is directed to the Code Institute website, where receipt is confirmed.
-<img src="../prela/assets/media/contact page.png" alt="Contact page">
+<img src="../prela/assets/media/contactpage.png" alt="Contact page">
 
 ### Footer section
 * The footer bar includes links to social media profiles, allowing users to stay up to date with the latest news and promotions. Additionally, it contains the address of the location with a direct link to the location on maps for easy navigation, as well as a phone number for quick inquiries and reservations.
-<img src="" alt="Footer section"
+<img src="../prela/assets/media/Footer.png" alt="Footer section"
 
 ## Future Features
 * Future features can be done in and expanded as a cafe bar gallery
@@ -101,12 +101,14 @@ By clicking the "Submit" button, the visitor is directed to the Code Institute w
 * None
 
 ## Deployment
-* Link: https://
+* Live link: [https://](https://rock3879.github.io/prela/)
 
 ## Fork a GitHub Repository
+* To fork a repo, log in to your account and then go to the repository. In the top-right corner of the window, there is a "Fork" button with a number to the right of it, which represents the number of times the repository has been forked. Go ahead and click that button.
+* A message will briefly appear letting you know that the forking process has started. It only takes a few seconds to fork the repo.
+* You're now safe to make any changes to the code in your forked repository that you like. To do so, just clone the forked repository to your local machine and get busy!
 
 ## Credits
-
 ### Media
 * The photos were taken from [Pexels](https://www.pexels.com/)
      
