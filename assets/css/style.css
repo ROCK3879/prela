@@ -137,7 +137,7 @@ ul li a:hover{
 }
 /* Footer-style*/
 footer {
-    position: absolute;
+    position: relative;
     bottom: 0;
     width: 100%;
     text-align: center;
@@ -164,10 +164,20 @@ footer {
 /* Responsivness*/
 @media screen and (max-width: 768px) {  
     
-    .main {
-        display: flex;
-        margin: 100%;
+    .main{
+        display: block;
+        width: 100%;
+        padding: 30px;
+       
     }  
+    #navbar{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        padding: 20px; 
+        display: flex;  
+    }
     
     .title {
         font-size: 250%; 

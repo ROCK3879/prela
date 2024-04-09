@@ -109,7 +109,7 @@ h1 {
 /* Footer-style*/
 footer {
     position: absolute;
-    bottom: 0;
+    bottom: 15;
     width: 100%;
     text-align: center;
     padding: 15px 0;
@@ -133,40 +133,44 @@ footer {
     color: #3a3a3a;
 }
 /* Responsivness*/
-@media screen and (max-width: 768px) {  
+@media only screen and (max-width: 768px) {  
     
-.main {
-    display: flex;
-    margin: 100%;
-}   
-.menu-box {
-    flex-direction: column;
-    margin:0px;
-}
-         
-h2 {
-    font-size: 14px;
-}
-   
-.col-st { 
-    margin :0;
-}
+    .main{
+        display: block;
+        width: 100%;
+        padding: 30px;  
+    }
+    .navbar{
+        width: 700px;
+        margin: 0;
+      }
 
-h1 {
-    font-size: 30px;
-    margin-top: 20px;
-    margin-left: 20px;}
-     
-ul li {
-    margin: 0 10px; 
-}
+      .menu-box {
+        display: flex;
+        max-width: 40%;
            
-ul li a { 
-    display: flex ;
-    font-size: 0.8em;
-}
+    }
+    
+    .col-st {
+        width: 100%;
+        padding: 30px;
+        
+    }
+    
+    .col-st h2 { 
+        font-family: sans-serif;
+        line-height: 1.6;
+        font-size: 20px;
+        color: #000000;
+    }
+    
+    h1 { 
+        font-size: 50px;
+        font-weight: bold;
+        text-align: center;
+    }
    
 footer { 
-    position:fixed;
+    position:relative;
     font-size:13px;}
  }
