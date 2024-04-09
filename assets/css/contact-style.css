@@ -7,18 +7,10 @@ body {
     margin: 0 auto;
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
-    box-sizing: border-box;
     background: url("../images/coffe-beans.jpg");
     }
 
-    .logo{
-      color: #fff;
-      font-size: 45px;
-      font-family: 'Times New Roman';
-      padding-left: 20px;
-      float: left;
-      padding-top: 10px;
-  }
+   
 
     /* Title styles */
       h1 {
@@ -36,14 +28,13 @@ body {
   margin: 0;
   }
   
-  /* 2 columns styles */
   .column {
     flex: 1;
     margin-right: 10px;
    
   }
   
-  /* Form and input styles*/
+  /* Formular bar styles*/
   .formular {
       display: flex;
       flex-direction: column;
@@ -52,8 +43,7 @@ body {
       margin-top:  0;
   }
   
-  form label,
-  form input {
+  form label, form input {
       left:20%;
       display: block;
       margin-bottom: 8px;     
@@ -112,7 +102,7 @@ body {
   
     /* Footer styling*/
   footer {
-    position:relative;
+    position: relative;
     bottom: 0;
     width: 100%;
     text-align: center;
