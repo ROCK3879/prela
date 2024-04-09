@@ -11,7 +11,7 @@ Coffee Time website will be useful to all lovers of good taste who can make a re
 * Informative content and navigation will be easy for users because the website should be targeted to attract taste lovers and bring them to our address.
 Responsiveness to all devices provides an excellent browsing experience regardless of which device you use.
 
-<img src="../prela/assets/media/Fullscr.png" alt="Screen responsiveness"
+ <img src="../assets/media/Fullscr.png" alt="Screen responsiveness"
 
 # User stories
 
