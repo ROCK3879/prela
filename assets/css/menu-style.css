@@ -97,7 +97,7 @@ ul li a:hover{
     font-family: sans-serif;
     line-height: 1.6;
     font-size: 20px;
-    color: #000000;
+    color: #ffffff;
 }
 
 h1 { 
@@ -109,7 +109,7 @@ h1 {
 /* Footer-style*/
 footer {
     position: absolute;
-    bottom: 15;
+    bottom: 0;
     width: 100%;
     text-align: center;
     padding: 15px 0;
@@ -158,10 +158,8 @@ footer {
     }
     
     .col-st h2 { 
-        font-family: sans-serif;
-        line-height: 1.6;
-        font-size: 20px;
-        color: #000000;
+        font-size: 10px;
+        color: #ffffff;
     }
     
     h1 { 
