@@ -102,7 +102,8 @@ By clicking the "Submit" button, the visitor is directed to the Code Institute w
 * None
 
 ## Deployment
-* Live link: [https://](https://rock3879.github.io/prela/)
+* Live link: 
+[Coffee Time](https://rock3879.github.io/prela/)
 
 ## Fork a GitHub Repository
 * To fork a repo, log in to your account and then go to the repository. In the top-right corner of the window, there is a "Fork" button with a number to the right of it, which represents the number of times the repository has been forked. Go ahead and click that button.
@@ -111,7 +112,7 @@ By clicking the "Submit" button, the visitor is directed to the Code Institute w
 
 ## Credits
 ### Media
-* The photos were taken from [Pexels](https://www.pexels.com/)
+* The photos were taken from Pexels [https://www.pexels.com/](https://www.pexels.com/)
      
 ### Content
 * Social media icons in the footer were from [Font Awesome](https://fontawesome.com/)
