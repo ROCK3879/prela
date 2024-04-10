@@ -35,24 +35,24 @@ If you can read this, you have prepared and submitted your form correctly"
 ### Navigation bar
 * Displayed on all pages, the navigation bar includes links to the home page, menu pages, and the Contact page.
 The navigation bar will allow the user to easily move from page to page on all devices.
-<img src="../prela/assets/media/Navbar.png" alt= "Navigation bar">
+<img src="assets/media/Navbar.png" alt= "Navigation bar">
 
 ### Home page
 * The main page has a design, with a simple background image that puts the coffee in the spotlight, while the text element grabs the user's attention and invites them to browse further.
-<img src="../prela/assets/media/Homepage.png" alt="Home page">
+<img src="assets/media/Homepage.png" alt="Home page">
 
 ### Menu page
 * The menu page gives users a comprehensive overview of what Caffee Time has to offer.
-<img src="../prela/assets/media/menupage.png" alt="Menu page">
+<img src="assets/media/menupage.png" alt="Menu page">
 
 ### Contact page
 * The Contact page has a contact form that website visitors can use to get in touch with us and make reservations or other questions.
 By clicking the "Submit" button, the visitor is directed to the Code Institute website, where receipt is confirmed.
-<img src="../prela/assets/media/contactpage.png" alt="Contact page">
+<img src="assets/media/contactpage.png" alt="Contact page">
 
 ### Footer section
 * The footer bar includes links to social media profiles, allowing users to stay up to date with the latest news and promotions. Additionally, it contains the address of the location with a direct link to the location on maps for easy navigation, as well as a phone number for quick inquiries and reservations.
-<img src="../prela/assets/media/Footer.png" alt="Footer section"
+<img src="assets/media/Footer.png" alt="Footer section"
 
 ## Future Features
 * Future features can be done in and expanded as a cafe bar gallery
